@@ -1,0 +1,15 @@
+The raw training data is stored in the lingspam_public folder.
+
+The instances represent every single email stored as a .txt.
+
+We account for the labels spam/not_spam as we called them.
+Each instance is classified with exactly one label by the title.
+As in the official readme file it is stated that the spam emails have the prefix spm in the title.
+
+The attributes represent all the words found in at least one of the emails.
+
+We used the nltk module for tokenizing the words and to filter the stop words in the emails.
+After that we reduced all the words possible to their base form using the WordNetLemmatizer function from the nltk module,
+and filter the punctuation signs and other unwanted char
+
+We stored all the processed data in a new folder with a similar structure.

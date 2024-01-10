@@ -1,0 +1,17 @@
+subject
+word
+opposite
+content
+length
+pair
+synonym
+one
+sense
+antonym
+another
+outgo
+retire
+mary
+neff
+ibm
+research

@@ -1,0 +1,11 @@
+subject
+english
+parser
+tagger
+lemmatizer
+lemmatize
+corpus
+hint
+thank
+advance
+marc
